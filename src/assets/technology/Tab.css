@@ -1,0 +1,47 @@
+div.MuiTabs-flexContainerVertical > div.MuiButtonBase-root{
+
+    min-height: 50px;
+    min-width: 50px; 
+    border-radius: 50px;
+    color:white;
+    background-color: black;
+    opacity: 0.5;
+    line-height: 20px;
+    font-size: medium;
+}
+div.MuiTabs-flexContainer > div.MuiButtonBase-root{
+
+    min-height: 50px;
+    min-width: 50px; 
+    border-radius: 50px;
+    color:white;
+    background-color: black;
+    opacity: 0.5;
+    line-height: 20px;
+    font-size: medium;
+}
+
+div.MuiTabs-flexContainerVertical>  div.MuiButtonBase-root.Mui-selected{
+
+    min-height: 50px;
+    min-width: 50px; 
+    border-radius: 50px;
+    color:black;
+    
+    background-color:white;
+    opacity: 1;
+    line-height: 20px;
+    font-size: large;
+}
+
+div.MuiTabs-flexContainer>  div.MuiButtonBase-root.Mui-selected{
+
+    min-height: 50px;
+    min-width: 50px; 
+    border-radius: 50px;
+    color:black;
+    background-color:white;
+    opacity: 1;
+    line-height: 20px;
+    font-size: large;
+}
